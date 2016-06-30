@@ -1,0 +1,8 @@
+[submodule "versions/1.x"]
+	path = versions/1.x
+	url = git@github.com:kolektiv/static-versioned-test.git
+	branch = 1.x
+[submodule "versions/2.x"]
+	path = versions/2.x
+	url = git@github.com:kolektiv/static-versioned-test.git
+	branch = 2.x
